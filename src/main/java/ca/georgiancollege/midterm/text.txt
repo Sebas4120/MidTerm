@@ -1,2 +1,14 @@
 MAVEN
 com.mysql:mysql-connector-j:8.3.0
+
+ARCHIVOS A USAR EN MIDTERM:
+
+    democomp1011MidTermPrep - github
+
+    demoAssignment1 - (guardado en tu computadora)
+
+    Assignment1-GC8953 - github
+
+    comp1011Summer2024_Sebastian_Aguirre_200558953 - github
+
+    JavaExcersices - github

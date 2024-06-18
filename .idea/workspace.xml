@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67cf9347-3fb0-4009-931d-4f327fd0e730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/Hello2Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/test2-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8abc33f6-2fed-438d-9d60-c97d1492afd9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8abc33f6-2fed-438d-9d60-c97d1492afd9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8abc33f6-2fed-438d-9d60-c97d1492afd9/storage_v2/_src_/schema/TEST.kjwnAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8abc33f6-2fed-438d-9d60-c97d1492afd9/storage_v2/_src_/schema/TEST.kjwnAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/test-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/test-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +102,7 @@
       <updated>1718553471266</updated>
       <workItem from="1718553472337" duration="230000" />
       <workItem from="1718711144933" duration="3498000" />
-      <workItem from="1718727849608" duration="1167000" />
+      <workItem from="1718727849608" duration="1345000" />
     </task>
     <servers />
   </component>
