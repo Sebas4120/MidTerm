@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67cf9347-3fb0-4009-931d-4f327fd0e730" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/hello-view.fxml" beforeDir="false" />
-    </list>
+    <list default="true" id="67cf9347-3fb0-4009-931d-4f327fd0e730" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,7 @@
       <updated>1718553471266</updated>
       <workItem from="1718553472337" duration="230000" />
       <workItem from="1718711144933" duration="3498000" />
-      <workItem from="1718727849608" duration="1345000" />
+      <workItem from="1718727849608" duration="1945000" />
     </task>
     <servers />
   </component>
