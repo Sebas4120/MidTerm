@@ -1020,159 +1020,150 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <Charset>utf8mb4</Charset>
     </collation>
     <schema id="288" parent="1" name="COMP1011">
-      <LastIntrospectionLocalTimestamp>2024-06-18.13:06:04</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-06-18.16:42:20</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <schema id="289" parent="1" name="TEST">
-      <LastIntrospectionLocalTimestamp>2024-06-18.12:35:40</LastIntrospectionLocalTimestamp>
+    <schema id="289" parent="1" name="WEEK6">
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <schema id="290" parent="1" name="WEEK6">
-      <CollationName>utf8mb4_0900_ai_ci</CollationName>
-    </schema>
-    <schema id="291" parent="1" name="information_schema">
+    <schema id="290" parent="1" name="information_schema">
       <CollationName>utf8mb3_general_ci</CollationName>
     </schema>
-    <schema id="292" parent="1" name="mysql">
+    <schema id="291" parent="1" name="mysql">
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <schema id="293" parent="1" name="performance_schema">
+    <schema id="292" parent="1" name="performance_schema">
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <schema id="294" parent="1" name="sys">
+    <schema id="293" parent="1" name="sys">
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <user id="295" parent="1" name="admin"/>
-    <user id="296" parent="1" name="mysql.infoschema">
+    <user id="294" parent="1" name="admin"/>
+    <user id="295" parent="1" name="mysql.infoschema">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="297" parent="1" name="mysql.session">
+    <user id="296" parent="1" name="mysql.session">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="298" parent="1" name="mysql.sys">
+    <user id="297" parent="1" name="mysql.sys">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="299" parent="1" name="rdsadmin">
+    <user id="298" parent="1" name="rdsadmin">
       <Host>localhost</Host>
       <Plugin>auth_socket</Plugin>
     </user>
-    <table id="300" parent="288" name="ONTARIO">
+    <table id="299" parent="288" name="ONTARIO">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="301" parent="288" name="TEST">
+    <table id="300" parent="288" name="TEST">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="302" parent="288" name="carData">
+    <table id="301" parent="288" name="carData">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <column id="303" parent="300" name="ID">
+    <column id="302" parent="299" name="ID">
       <AutoIncrement>55</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="304" parent="300" name="YEAR">
+    <column id="303" parent="299" name="YEAR">
       <DasType>varchar(50)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="305" parent="300" name="POPULATION">
+    <column id="304" parent="299" name="POPULATION">
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>3</Position>
     </column>
-    <column id="306" parent="300" name="MALE">
+    <column id="305" parent="299" name="MALE">
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>4</Position>
     </column>
-    <column id="307" parent="300" name="FEMALE">
+    <column id="306" parent="299" name="FEMALE">
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>5</Position>
     </column>
-    <index id="308" parent="300" name="PRIMARY">
+    <index id="307" parent="299" name="PRIMARY">
       <ColNames>ID</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="309" parent="300" name="PRIMARY">
+    <key id="308" parent="299" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="310" parent="301" name="ID">
+    <column id="309" parent="300" name="ID">
       <AutoIncrement>1</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="311" parent="301" name="YEAR">
-      <DasType>varchar(50)|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>2</Position>
-    </column>
-    <index id="312" parent="301" name="PRIMARY">
+    <index id="310" parent="300" name="PRIMARY">
       <ColNames>ID</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="313" parent="301" name="PRIMARY">
+    <key id="311" parent="300" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="314" parent="302" name="ID">
+    <column id="312" parent="301" name="ID">
       <AutoIncrement>10</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="315" parent="302" name="COLOR">
+    <column id="313" parent="301" name="COLOR">
       <DasType>varchar(50)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="316" parent="302" name="MODEL">
+    <column id="314" parent="301" name="MODEL">
       <DasType>varchar(50)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>3</Position>
     </column>
-    <column id="317" parent="302" name="MAKE">
+    <column id="315" parent="301" name="MAKE">
       <DasType>varchar(50)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>4</Position>
     </column>
-    <column id="318" parent="302" name="DOORS">
+    <column id="316" parent="301" name="DOORS">
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>5</Position>
     </column>
-    <column id="319" parent="302" name="YEAR">
+    <column id="317" parent="301" name="YEAR">
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>6</Position>
     </column>
-    <column id="320" parent="302" name="KM">
+    <column id="318" parent="301" name="KM">
       <DasType>double|0s</DasType>
       <NotNull>1</NotNull>
       <Position>7</Position>
     </column>
-    <index id="321" parent="302" name="PRIMARY">
+    <index id="319" parent="301" name="PRIMARY">
       <ColNames>ID</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="322" parent="302" name="PRIMARY">
+    <key id="320" parent="301" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>

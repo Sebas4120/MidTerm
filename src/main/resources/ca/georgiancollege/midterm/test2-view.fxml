@@ -7,7 +7,7 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Label layoutX="233.0" layoutY="172.0" prefHeight="51.0" prefWidth="102.0" text="Lo aharas bien" />
-      <Button fx:id="changeView" layoutX="503.0" layoutY="324.0" mnemonicParsing="false" text="Change" />
+      <Label alignment="CENTER" layoutX="171.0" layoutY="122.0" prefHeight="71.0" prefWidth="177.0" text="SCENE 2" />
+      <Button fx:id="changeView" layoutX="473.0" layoutY="318.0" mnemonicParsing="false" text="Change" />
    </children>
 </AnchorPane>
