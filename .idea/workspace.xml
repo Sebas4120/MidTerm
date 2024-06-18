@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67cf9347-3fb0-4009-931d-4f327fd0e730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ca/georgiancollege/midterm/test-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/midterm/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="67cf9347-3fb0-4009-931d-4f327fd0e730" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718553471266</updated>
       <workItem from="1718553472337" duration="230000" />
-      <workItem from="1718711144933" duration="3442000" />
+      <workItem from="1718711144933" duration="3498000" />
     </task>
     <servers />
   </component>
